@@ -18,3 +18,4 @@ Mousta9bali V.2 2018 "Les Roses de l'Espoir"
 University presentations "Saad-Dahlab University"
 
     - OWASP TOP10 
+    - Risk Management 'Maîtriser les risques en matière de sécurité de l'information'
