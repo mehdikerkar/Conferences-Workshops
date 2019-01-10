@@ -19,3 +19,4 @@ University presentations "Saad-Dahlab University"
 
     - OWASP TOP10 
     - Risk Management
+    - Licence thesis presentation "Document Clustering with K-means algorithm"
