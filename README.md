@@ -1,4 +1,4 @@
-# presentations
+# Presentations
 It is a repository of my presentations
 
 7th Edition HackINI 2018 "Shellmates"
