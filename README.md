@@ -1,9 +1,9 @@
 # My Personal Conferences & Workshops
-Repository of few presentations, documents I made & already presented. 
+Repository of few presentations, documents I made & already presented.
+
 If you would like to take is as reference you are welcome, just mention me in it !
 
 If you want me to speak at your event, ping me ?! at [@Linked](https://www.linkedin.com/in/mehdi-nacer-kerkar-cyber-security-consultant/)
-
 
 
 ## OWASP Algiers Chapter Presentations
@@ -12,7 +12,7 @@ TID TechVerse Inteligence Day with TechVerse Club Medea
         - Cyber Crimes: The Road To The Truth "Workshop" - Apr2024
 
 
-## Other Presentaions
+## Presentations Before 2023
 
 ### Vision Club Online Presentation
     - Cyber Security World - June2021
@@ -30,6 +30,7 @@ TID TechVerse Inteligence Day with TechVerse Club Medea
 ### Mousta9bali V.2 2018 & V.4 2022 "Les Roses de l'Espoir" 
 
     - Metier d'avenir "Conference & workshop"
+
 
 ## Official University Degree Documents "Saad-Dahlab University"
 
