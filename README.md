@@ -1,7 +1,6 @@
 # My Personal Conferences & Workshops
 Repository of few presentations, documents I made & already presented.
-
-If you would like to take is as reference you are welcome, just mention me in it !
+If you would like to take them as reference you are welcome, just mention me in it ;) !
 
 If you want me to speak at your event, ping me ?! at [@Linked](https://www.linkedin.com/in/mehdi-nacer-kerkar-cyber-security-consultant/)
 
