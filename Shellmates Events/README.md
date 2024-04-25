@@ -1,4 +1,4 @@
-#Shellmates Events
+# Shellmates Events
 
 ## 7th Edition HackINI 2018 "Shellmates"
     
