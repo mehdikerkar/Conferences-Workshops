@@ -21,8 +21,9 @@ Mousta9bali V.2 2018 & V.4 2022 "Les Roses de l'Espoir"
 
 University presentations "Saad-Dahlab University"
 
+    - Cryptage a Puce (Smart Card Ship Authentication SDA & DDA protocols) - 2017/2028
     - The security of Windows operating systems
-    - Central Authentication Service 
+    - Central Authentication Service
     - Risk Management
     - OWASP TOP10
     - Licence thesis presentation "Document Clustering with K-means algorithm"
