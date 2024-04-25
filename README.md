@@ -1,13 +1,19 @@
-# Presentations
-Repository of my presentations
+# My Personal Conferences & Workshops
+Repository of few presentations, documents I made & already presented. 
+If you would like to take is as reference you are welcome, just mention me in it !
+
+If you want me to speak at your event, ping me ?! at [@Linked](https://www.linkedin.com/in/mehdi-nacer-kerkar-cyber-security-consultant/)
 
 
-## OWASP Algiers Chapter presentations
+
+## OWASP Algiers Chapter Presentations
 TID TechVerse Inteligence Day with TechVerse Club Medea
 
         - Cyber Crimes: The Road To The Truth "Workshop" - Apr2024
 
-## Other presentaions
+
+## Other Presentaions
+
 ### Vision Club Online Presentation
     - Cyber Security World - June2021
 
@@ -25,13 +31,13 @@ TID TechVerse Inteligence Day with TechVerse Club Medea
 
     - Metier d'avenir "Conference & workshop"
 
-## Official University Degree documents "Saad-Dahlab University"
+## Official University Degree Documents "Saad-Dahlab University"
 
     - Master Thesis: "Lightweight Security Platform for IoT"
     - POSTER: "Lightweight Security Platform for IoT: Smart hotel use case" (Project link: https://itea3-parfait.com/)
     - Licence thesis: "Document Clustering with K-means algorithm"
 
-### University presentations "Saad-Dahlab University"
+### "Saad-Dahlab University" Presentations 
 
     - Cryptage a Puce (Smart Card Ship Authentication SDA & DDA protocols) - 2017/2028
     - The security of Windows operating systems
@@ -39,11 +45,12 @@ TID TechVerse Inteligence Day with TechVerse Club Medea
     - Risk Management
     - OWASP TOP10
 
+
     
- ### Under the assistance
+ ### Under the Assistance of :
  
- - OWASP Algiers Chapter (https://owasp.org/www-chapter-algiers/)
- - Shellmates (https://shellmates-club.com)
- - RDE les roses de l'espoir ورود الأمل  
- - USDB Saad-Dahlab University (http://www.univ-blida.dz)
- - Drive Lab - ISAT (https://www.isat.fr/formations/laboratoire-drive)
+ - [@OWASP Algiers Chapter](https://owasp.org/www-chapter-algiers/)
+ - [@Shellmates](https://shellmates-club.com)
+ - [@RDE les roses de l'espoir ورود الأمل](https://m.facebook.com/100064379903857/)
+ - [@USDB Saad-Dahlab University](http://www.univ-blida.dz)
+ - [@Drive Lab - ISAT](https://www.isat.fr/formations/laboratoire-drive)
