@@ -1,6 +1,11 @@
 # Presentations
 It is a repository of my presentations
 
+
+TID TechVerse Inteligence Day with TechVerse Club Medea
+
+    - Cyber Crimes: The Road To The Truth "Workshop" - Apr2024
+    
 7th Edition HackINI 2018 "Shellmates"
 
     - Applied Cryptography "Workshop"
@@ -11,7 +16,7 @@ HackDay 2018 "Shellmates"
     - Real World Pentration Testing Boxes "Workshop"
     - Penetration Testing Execution Standard "Conference"
     
-Mousta9bali V.2 2018 "Les Roses de l'Espoir"
+Mousta9bali V.2 2018 & V.4 2022 "Les Roses de l'Espoir" 
 
     - Metier d'avenir "Conference & workshop"
 
@@ -25,6 +30,7 @@ University presentations "Saad-Dahlab University"
     
  *Under the assistance
  
+ - OWASP Algiers Chapter    https://owasp.org/www-chapter-algiers/
  - Shellmates       https://shellmates-club.com
  - RDE les roses de l'espoir ورود الأمل  
  - USDB Saad-Dahlab University      http://www.univ-blida.dz/
