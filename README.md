@@ -1,10 +1,9 @@
 # Presentations
-It is a repository of my presentations
+Repository of my presentations
 
 OWASP Algiers Chapter 
 
-    TID TechVerse Inteligence Day with TechVerse Club Medea
-    - Cyber Crimes: The Road To The Truth "Workshop" - Apr2024
+        - Cyber Crimes: The Road To The Truth "Workshop" - Apr2024 - TID TechVerse Inteligence Day with TechVerse Club Medea
     
 7th Edition HackINI 2018 "Shellmates"
 
