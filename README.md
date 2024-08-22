@@ -1,8 +1,11 @@
 # My Personal Conferences & Workshops
 Repository of few presentations, documents I made & already presented.
+Adding the youtube links for the presentations and radio show when existant.
+
 If you would like to take them as reference you are welcome, just mention me in it ;) !
 
 If you want me to speak at your event, ping me ?! at [@Linked](https://www.linkedin.com/in/mehdi-nacer-kerkar-cyber-security-consultant/)
+Here my [@linkTree](https://linktr.ee/mehdinacerkerkar)
 
 
 ### OWASP Algiers Chapter Presentations
@@ -50,8 +53,10 @@ Mousta9bali Event V.2 2018 & V.4 2022
     
  ### Under the Assistance of :
  
- - [@OWASP Algiers Chapter](https://owasp.org/www-chapter-algiers/)
+ - [@OWASP Algiers Chapter](https://owasp.org/www-chapter-algiers/) / [@Official website](https://owasp-algiers.org)
  - [@Shellmates](https://shellmates-club.com)
  - [@RDE les roses de l'espoir ورود الأمل](https://m.facebook.com/100064379903857/)
  - [@USDB Saad-Dahlab University](http://www.univ-blida.dz)
  - [@Drive Lab - ISAT](https://www.isat.fr/formations/laboratoire-drive)
+ - [@TechVerse Club - Medea University](https://www.linkedin.com/company/techverse-club)
+ - [@Vision & Innovation Club - Ecole National Polytechnique](https://www.instagram.com/vic.enp)
