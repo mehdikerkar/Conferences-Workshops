@@ -7,7 +7,7 @@ If you would like to take them as reference you are welcome, just mention me in 
 If you want me to speak at your event, ping me ?! at [@Linked](https://www.linkedin.com/in/mehdi-nacer-kerkar-cyber-security-consultant/)
 Here my [@linkTree](https://linktr.ee/mehdinacerkerkar)
 
-### Other Content (Conference/Webinar/Workshop/Discussion Panel)
+### Other Commitments (Conferences/Webinars/Workshops/Panels)
 
         - OT Security & ISA/IEC 62443 standards HackTalk - March2025 - Shellmates/OWASP Algiers
         - De l’analyse à l'exploitation des données, comment sécuriser la chaine de valeur en Algérie? - Febrary2025 - CTO Forum/PwC Algerie
