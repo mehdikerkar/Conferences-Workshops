@@ -1,4 +1,4 @@
-# Other Commitments (Conference/Webinar/Workshop/Discussion Panel)
+# Other Commitments (Conferences/Webinars/Workshops/Panels)
     - OT Security & ISA/IEC 62443 standards HackTalk - March2025 - Shellmates/OWASP Algiers
     - De l’analyse à l'exploitation des données, comment sécuriser la chaine de valeur en Algérie? - Febrary2025 - CTO Forum/PwC Algerie
     - Dicussion Panel on Cybersecurity & Data Protection - Febrary2025 - CTO Forum/PwC Algerie
